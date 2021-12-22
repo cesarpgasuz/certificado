@@ -32,7 +32,7 @@
 		}
 	],
 	"name" : "Certificado Covid19",
-	"short_name" : "Charcas.xyz",
+	"short_name" : "Certificado Covid19",
 	"description" : "Certificado Covid19",
 	"start_url" : "./",
 	"scope" : "./",
